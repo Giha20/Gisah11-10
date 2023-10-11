@@ -1,35 +1,18 @@
-/* Estilos para a página HTML */
-
-body {
-
-font-family: Arial, sans-serif;
-
+/* Estilo para a página HTML */
+Body{
+font-family: verdana, sans-serif;
 background-color: #0000FF;
-
 margin: 0;
-
 padding: 20px;
-
 }
-
 h1 {
-
 color: #008080;
-
 }
-
 p {
-
 color: #008000;
-
 }
-
 /* Estilos para a classe .destaque */
-
 .destaque {
-
 background-color: #00FF00;
-
 padding: 10px;
-
 }
